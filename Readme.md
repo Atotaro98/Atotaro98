@@ -1,1 +1,15 @@
+# Welcome to My Github!
 
+
+*Hello, my name is Alejo, within my GITHUB I will be uploading projects and works that I have done or collaborated with.
+I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://atotaro98.github.io/index.html)
+Some of my jobs or projects that I work on are the following:* 
+
+ - [Cooperativa Internet](https://github.com/Atotaro98/Cooperativa_Internet) *This work is done in pure and exclusive HTML CSS. I did it within my WEB Programming course at UTN.*
+ - [AIRhitect](https://github.com/Atotaro98/AIRhitect) *This WEB page was made for a job interview. Which specified that it be only exclusive in desktop view.*
+ - [Movie Found](https://github.com/Atotaro98/ApiPeliculas) *It is an application created with a movie API, which allows you to search and add said movie to a list of favorites, use React + Redux for its functionality.*
+ - [Web Api Clima](https://github.com/Atotaro98/ApiClima) *Like Movie Found, within this page you can search for a city to find out its current weather.*
+
+
+
+[Repositories](https://github.com/Atotaro98?tab=repositories)  *Finally I share my Repositories link so that you can review all the works and projects.*
