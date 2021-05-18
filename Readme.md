@@ -15,7 +15,7 @@ Some of my jobs or projects that I work on are the following:*
 
 
 
-)  *Finally I share my [Repositories](https://github.com/Atotaro98?tab=repositories link so that you can review all the works and projects.*
+  *Finally I share my [Repositories](https://github.com/Atotaro98?tab=repositories) link so that you can review all the works and projects.*
 
 
 ***About my studies:***
