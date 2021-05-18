@@ -2,7 +2,9 @@
 
 ![](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
 
-*Hello, my name is Alejo, within my GITHUB I will be uploading projects and works that I have done or collaborated with.
+## Hello, my name is Alejo
+
+  I will be uploading projects and works that I have done or collaborated with.
 I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://atotaro98.github.io/index.html)
 Some of my jobs or projects that I work on are the following:* 
 
@@ -14,3 +16,8 @@ Some of my jobs or projects that I work on are the following:*
 
 
 [Repositories](https://github.com/Atotaro98?tab=repositories)  *Finally I share my Repositories link so that you can review all the works and projects.*
+
+
+***About my studies:***
+*I did study 2 years of Systems Engineering. I trained through courses offered by the National Technological University (UTN).
+Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in. Right now I am studying at HENRY's Bootcamp.*
