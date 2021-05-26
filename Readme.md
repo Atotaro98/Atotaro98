@@ -8,7 +8,7 @@
 I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://atotaro98.github.io/index.html)
 Some of my jobs or projects that I work on are the following:* 
 
- -🎮 [New-World-Countdown](https://github.com/Atotaro98/New-World-Countdown) *At the request of my friends and colleagues I made a page where you can see the time left for one of the most anticipated MMOs of this year to come out. I'm talking about the New World. Use Html, Css and Javascript for the counter. It is something very simple but one that I enjoy doing.*
+ - 🎮 [New-World-Countdown](https://github.com/Atotaro98/New-World-Countdown) *At the request of my friends and colleagues I made a page where you can see the time left for one of the most anticipated MMOs of this year to come out. I'm talking about the New World. Use Html, Css and Javascript for the counter. It is something very simple but one that I enjoy doing.*
 
  - 🤢 [Not-Everything-is-rosy](https://github.com/Atotaro98/Not-Everything-is-rosy) *It is an application created with a COVID API, which allows you to search countrys and get information about COVID here. I use React + Redux. Css from Styles and Another API from flags.*
  
