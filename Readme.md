@@ -5,7 +5,7 @@
 ## Hello, my name is Alejo 🤙🏽
 
 *I will be uploading projects and works that I have done or collaborated with.
-I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://atotaro98.github.io/index.html)
+I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://alejo-totaro-portfolio.netlify.app/)
 Some of my jobs or projects that I work on are the following:* 
 
  - 🎮 [New-World-Countdown](https://newworld-countdown.netlify.app/) *At the request of my friends and colleagues I made a page where you can see the time left for one of the most anticipated MMOs of this year to come out. I'm talking about the New World. Use Html, Css and Javascript for the counter. It is something very simple but one that I enjoy doing. [Code](https://github.com/Atotaro98/New-World-Countdown)*
