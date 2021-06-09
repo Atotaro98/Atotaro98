@@ -8,7 +8,14 @@
 I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://alejo-totaro-portfolio.netlify.app/)
 Some of my jobs or projects that I work on are the following:* 
 
+
+## Working Now.
+
  -  🌎  **[Country Activities](https://github.com/Atotaro98/PI-Countries-FT13) I am now working on an individual project proposed by Henry's bootcamp. [Code]**(https://github.com/Atotaro98/PI-Countries-FT13)
+
+
+
+## JavaScript - React - Redux.
 
  - 🎮 [New-World-Countdown](https://newworld-countdown.netlify.app/) *At the request of my friends and colleagues I made a page where you can see the time left for one of the most anticipated MMOs of this year to come out. I'm talking about the New World. Use Html, Css and Javascript for the counter. It is something very simple but one that I enjoy doing. [Code](https://github.com/Atotaro98/New-World-Countdown)*
 
@@ -21,7 +28,7 @@ Some of my jobs or projects that I work on are the following:*
 
  - 📞 [Cooperativa Internet](https://github.com/Atotaro98/Cooperativa_Internet) *This work is done in pure and exclusive HTML CSS. I did it within my WEB Programming course at UTN. In this page, u can saw a simple HomePage with information about the place. And 3 section. One with contact us, another with products and services and for last one about us.*
  
- ## ONLY HTML - CSS
+ ## ONLY HTML - CSS.
  
  - 🔨 [AIRhitect](https://github.com/Atotaro98/AIRhitect) *This WEB page was made for a job interview. Which specified that it be only exclusive in desktop view. It is just a page reporting data from a construction company. The page did created with pure Html and Css*
 
