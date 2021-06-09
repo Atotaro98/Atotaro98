@@ -4,8 +4,9 @@
 <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="gif"/>
 <p>
  
-##Hello, my name is Alejo 🤙🏽
-
+ 
+ <h1 align="center"> Hello, my name is Alejo 🤙🏽</h1>
+ 
 *I will be uploading projects and works that I have done or collaborated with.
 I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://alejo-totaro-portfolio.netlify.app/)
 Some of my jobs or projects that I work on are the following:* 
