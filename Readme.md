@@ -20,8 +20,6 @@ Some of my jobs or projects that I work on are the following:*
 
 ## JavaScript - React - Redux.
 
- - 🎮 [New-World-Countdown](https://newworld-countdown.netlify.app/) *At the request of my friends and colleagues I made a page where you can see the time left for one of the most anticipated MMOs of this year to come out. I'm talking about the New World. Use Html, Css and Javascript for the counter. It is something very simple but one that I enjoy doing. [Code](https://github.com/Atotaro98/New-World-Countdown)*
-
  - 🤢 [Not-Everything-is-rosy](https://not-everything-is-rosy.netlify.app/) *It is an application created with a COVID API, which allows you to search countrys and get information about COVID here. I use React + Redux. Css from Styles and Another API from flags. [Code](https://github.com/Atotaro98/Not-Everything-is-rosy)*
  
 
@@ -32,6 +30,7 @@ Some of my jobs or projects that I work on are the following:*
 
  
  ## ONLY HTML - CSS.
+  - 🎮 [New-World-Countdown](https://newworld-countdown.netlify.app/) *At the request of my friends and colleagues I made a page where you can see the time left for one of the most anticipated MMOs of this year to come out. I'm talking about the New World. Use Html, Css and Javascript for the counter. It is something very simple but one that I enjoy doing. [Code](https://github.com/Atotaro98/New-World-Countdown)*
  
   - 💳 [PaymentMethod](https://github.com/Atotaro98/MethodPayment) *Exclusive work in Html and Css for a job interview.*
 
