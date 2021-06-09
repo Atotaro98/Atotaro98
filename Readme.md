@@ -39,7 +39,7 @@ Some of my jobs or projects that I work on are the following:*
 
 
 
-
+ ## About Me.
 
 💻***The technologies that I used in my proyects and which I also study are: React, Redux, NodeJs, Express, SQL, CSS, MySql.***
 
