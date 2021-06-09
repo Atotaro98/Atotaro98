@@ -41,7 +41,7 @@ Some of my jobs or projects that I work on are the following:*
 
  ## About Me.
 
-<h1 align="center">💻  The technologies:  </h1>
+<h3 align="center">💻  The technologies:  </h3>
 <p align="center">
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
