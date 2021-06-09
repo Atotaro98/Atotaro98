@@ -11,7 +11,7 @@ Some of my jobs or projects that I work on are the following:*
 
 ## Working Now.
 
- -  🌎  **[Country Activities](https://github.com/Atotaro98/PI-Countries-FT13) I am now working on an individual project proposed by Henry's bootcamp. [Code]**(https://github.com/Atotaro98/PI-Countries-FT13)
+ -  🌎  **[Country Activities](https://github.com/Atotaro98/PI-Countries-FT13) Now working on an individual project proposed by Henry's bootcamp. [Code]**(https://github.com/Atotaro98/PI-Countries-FT13)
 
 
 
