@@ -26,13 +26,19 @@ Some of my jobs or projects that I work on are the following:*
 
  - 🌞 [Web Api Clima](https://weather-page-api.netlify.app/) *Like Movie Found, within this page you can search for a city to find out its current weather. [Code](https://github.com/Atotaro98/ApiClima)*
 
- - 📞 [Cooperativa Internet](https://github.com/Atotaro98/Cooperativa_Internet) *This work is done in pure and exclusive HTML CSS. I did it within my WEB Programming course at UTN. In this page, u can saw a simple HomePage with information about the place. And 3 section. One with contact us, another with products and services and for last one about us.*
+
  
  ## ONLY HTML - CSS.
  
- - 🔨 [AIRhitect](https://github.com/Atotaro98/AIRhitect) *This WEB page was made for a job interview. Which specified that it be only exclusive in desktop view. It is just a page reporting data from a construction company. The page did created with pure Html and Css*
+  - 💳 [PaymentMethod](https://github.com/Atotaro98/MethodPayment) *Exclusive work in Html and Css for a job interview.*
 
- - 💳 [PaymentMethod](https://github.com/Atotaro98/MethodPayment) *Exclusive work in Html and Css for a job interview.*
+ - 🔨 [AIRhitect](https://github.com/Atotaro98/AIRhitect) *This WEB page was made for a job interview. Which specified that it be only exclusive in desktop view. It is just a page reporting data from a construction company. The page did created with pure Html and Css*
+ 
+  - 📞 [Cooperativa Internet](https://github.com/Atotaro98/Cooperativa_Internet) *This work is done in pure and exclusive HTML CSS. I did it within my WEB Programming course at UTN. In this page, u can saw a simple HomePage with information about the place. And 3 section. One with contact us, another with products and services and for last one about us.*
+ 
+
+
+
 
 
 💻***The technologies that I used in my proyects and which I also study are: React, Redux, NodeJs, Express, SQL, CSS, MySql.***
