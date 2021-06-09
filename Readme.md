@@ -1,6 +1,6 @@
 # Welcome to My Github!
 <p align="center">
-<img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
+<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="gif" height="40" width="40"/>
  <p>
 
 ## Hello, my name is Alejo 🤙🏽
