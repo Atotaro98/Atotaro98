@@ -1,5 +1,6 @@
-# Welcome to My Github!
+
 <p align="center">
+ # Welcome to My Github!
 <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="gif"/>
  <p>
 
