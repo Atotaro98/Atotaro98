@@ -46,9 +46,9 @@ Some of my jobs or projects that I work on are the following:*
 
 <h3 align="center">💻  The technologies:  </h3>
 <p align="center">
-  <img style="margin: 20px;" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
-  <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
+  <img style="margin: 200px;" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
+  <img  style="margin-left: 200px;" src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
+  <img  style="margin-left: 200;" src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
