@@ -31,11 +31,14 @@ Some of my jobs or projects that I work on are the following:*
 Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in. Right now I am studying at HENRY's Bootcamp.*
 
 
-## Working Now.
+## FullStack Javascript.
 
- -  🌎  **[Country Activities](https://github.com/Atotaro98/PI-Countries-FT13) Now working on an individual project proposed by Henry's bootcamp. [Code](https://github.com/Atotaro98/PI-Countries-FT13)**
+ -  🌎  **[Country Activities](https://github.com/Atotaro98/PI-Countries-FT13) It is a web page where all the countries of the world are displayed and activities can be added.
+In it, it had to consume data from the Api Rest Countries, include filtering, paging and creating activities for different countries. [Code](https://github.com/Atotaro98/PI-Countries-FT13)**
 
-
+<p align="center"> Just using these technologies: -React-PostgreSQL-NodeJs-Express-Redux-CSS. <p>
+ 
+ 
 
 ## JavaScript - React - Redux.
 
@@ -62,6 +65,7 @@ Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked 
 
 - [LinkedIn](https://www.linkedin.com/in/alejo-totaro-a65448196/)
 - [Gmail](mailto:alejocs1998@gmail.com)
+- [Instagram](https://www.instagram.com/atotaro98/)
 
  
 *Finally I share my [Repositories](https://github.com/Atotaro98?tab=repositories) link so that you can review all the works and projects.*
