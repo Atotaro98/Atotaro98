@@ -60,8 +60,8 @@ Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked 
 
 ## Links - Social Medias
 
- <p> [LinkedIn](https://www.linkedin.com/in/alejo-totaro-a65448196/) <p>
- <p> [Gmail](mailto:alejocs1998@gmail.com) <p>
+- [LinkedIn](https://www.linkedin.com/in/alejo-totaro-a65448196/)
+- [Gmail](mailto:alejocs1998@gmail.com)
 
  
 *Finally I share my [Repositories](https://github.com/Atotaro98?tab=repositories) link so that you can review all the works and projects.*
