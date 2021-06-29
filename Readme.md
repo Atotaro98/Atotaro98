@@ -11,6 +11,25 @@
 I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://alejo-totaro-portfolio.netlify.app/)
 Some of my jobs or projects that I work on are the following:* 
 
+ ## About Me.
+
+<h3 align="center">💻  The technologies:  </h3>
+
+<p align="center">
+  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
+  <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
+  <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
+  <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
+<p>
+ 
+ ***About my studies:***
+*I did study 2 years of Systems Engineering. I trained through courses offered by the National Technological University (UTN).
+Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in. Right now I am studying at HENRY's Bootcamp.*
+
 
 ## Working Now.
 
@@ -39,30 +58,15 @@ Some of my jobs or projects that I work on are the following:*
   - 📞 [Cooperativa Internet](https://github.com/Atotaro98/Cooperativa_Internet) *This work is done in pure and exclusive HTML CSS. I did it within my WEB Programming course at UTN. In this page, u can saw a simple HomePage with information about the place. And 3 section. One with contact us, another with products and services and for last one about us.*
  
 
+## Links - Social Medias
+
+ [LinkedIn](https://www.linkedin.com/in/alejo-totaro-a65448196/)
+ [Gmail](mailto:alejocs1998@gmail.com)
+
+ 
+*Finally I share my [Repositories](https://github.com/Atotaro98?tab=repositories) link so that you can review all the works and projects.*
 
 
- ## About Me.
-
-<h3 align="center">💻  The technologies:  </h3>
-
-<p align="center">
-  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
-  <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
-  <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
-  <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
-  <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
-<p>
-
-
-  *Finally I share my [Repositories](https://github.com/Atotaro98?tab=repositories) link so that you can review all the works and projects.*
-
-
-***About my studies:***
-*I did study 2 years of Systems Engineering. I trained through courses offered by the National Technological University (UTN).
-Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in. Right now I am studying at HENRY's Bootcamp.*
 
 ***Finally I leave my resume so you can see all my detailed information.***
 
