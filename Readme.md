@@ -7,6 +7,8 @@
  
  <h3 align="center"> Hello, my name is Alejo 🤙🏽</h3>
  
+ 
+ LALALALA
 *I will be uploading projects and works that I have done or collaborated with.
 I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://alejo-totaro-portfolio.netlify.app/)
 Some of my jobs or projects that I work on are the following:* 
