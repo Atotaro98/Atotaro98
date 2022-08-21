@@ -30,7 +30,7 @@ Some of my jobs or projects that I work on are the following:*
  
  ***About my studies:***
 *I did study 2 years of Systems Engineering. I trained through courses offered by the National Technological University (UTN).
-Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in. Right now I am studying at HENRY's Bootcamp.*
+Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in.*
 
 
 ## FullStack Javascript.
