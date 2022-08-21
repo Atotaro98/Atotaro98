@@ -22,14 +22,20 @@ Some of my jobs or projects that I work on are the following:*
   <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
- <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
  <img src="https://api.iconify.design/logos:typescript-icon.svg" alt="react" height="40" width="40"/>
-
+ <img src="https://api.iconify.design/logos:firebase.svg" alt="react" height="40" width="40"/>
 <p>
  
  ***About my studies:***
 *I did study 2 years of Systems Engineering. I trained through courses offered by the National Technological University (UTN).
 Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in.*
+ 
+  ***About my work:***
+ *
+ I am currently working for Minsait, in the electoral solutions sector, working with React-native in the development of the broadcasting app. I have 1 year of experience with this framework.
+
+Previously I have worked in a start-up developing a restaurant booking app. There I learned to use this framework as well as improve my knowledge in React.
+*
 
 
 ## FullStack Javascript.
@@ -64,7 +70,7 @@ In it, it had to consume data from the Api Rest Countries, include filtering, pa
 
 ## Links - Social Medias
 
-- [LinkedIn](https://www.linkedin.com/in/alejo-totaro-a65448196/)
+- [LinkedIn](https://www.linkedin.com/in/alejo-totaro/)
 - [Gmail](mailto:alejocs1998@gmail.com)
 - [Instagram](https://www.instagram.com/atotaro98/)
 
@@ -72,9 +78,5 @@ In it, it had to consume data from the Api Rest Countries, include filtering, pa
 *Finally I share my [Repositories](https://github.com/Atotaro98?tab=repositories) link so that you can review all the works and projects.*
 
 
-
-***Finally I leave my resume so you can see all my detailed information.***
-
-[Alejo Totaro | Curriculum](https://atotaro98.github.io/cv/CVAlejoTotaro.pdf)
 
 > Thanks for stopping in my GITHUB. Have a nice day 😁.
