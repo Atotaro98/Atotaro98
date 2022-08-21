@@ -26,11 +26,11 @@ Some of my jobs or projects that I work on are the following:*
  <img src="https://api.iconify.design/logos:firebase.svg" alt="react" height="40" width="40"/>
 <p>
  
-***About my studies:***
+##  About my studies:
 *I did study 2 years of Systems Engineering. I trained through courses offered by the National Technological University (UTN).
 Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in.*
  
-***About my work:***
+##  About my work:
  *I am currently working for Minsait, in the electoral solutions sector, working with React-native in the development of the broadcasting app. I have 1 year of experience with this framework.
 Previously I have worked in a start-up developing a restaurant booking app. There I learned to use this framework as well as improve my knowledge in React.*
 
