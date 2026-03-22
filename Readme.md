@@ -1,79 +1,100 @@
+<div align="center">
 
-<h1 align="center"> Welcome to My Github! </h1>
-<p align="center">
-<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="gif"/>
-<p>
- 
- 
- <h3 align="center"> Hello, my name is Alejo 🤙🏽</h3>
- 
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Alejo+%F0%9F%A4%99%F0%9F%8F%BD;Mobile+%26+Web+Developer;React+Native+%7C+TypeScript+%7C+Expo)](https://git.io/typing-svg)
 
-*I will be uploading projects and works that I have done or collaborated with.
-I would be delighted for you to visit my portfolio: [Alejo Totaro | Portfolio](https://alejo-totaro-portfolio.netlify.app/)
-Some of my jobs or projects that I work on are the following:* 
+[![Portfolio](https://img.shields.io/badge/alejototaro.dev-000?style=for-the-badge&logo=astro&logoColor=white)](https://www.alejototaro.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-totaro/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alej0css)
 
- ## About Me.
+</div>
 
-<h3 align="center">💻  The technologies:  </h3>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif"/>
 
-<p align="center">
-  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
-  <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
- <img src="https://api.iconify.design/logos:typescript-icon.svg" alt="react" height="40" width="40"/>
- <img src="https://api.iconify.design/logos:firebase.svg" alt="react" height="40" width="40"/>
-<p>
- 
-##  About my studies:
-*I did study 2 years of Systems Engineering. I trained through courses offered by the National Technological University (UTN).
-Where did  3 courses, Java, WEB Development and Javascript. Personally, I liked the last 2 more. And it's what I want to specialize in.*
- 
-##  About my work:
- *I am currently working for Minsait, in the electoral solutions sector, working with React-native in the development of the broadcasting app. I have 1 year of experience with this framework.
-Previously I have worked in a start-up developing a restaurant booking app. There I learned to use this framework as well as improve my knowledge in React.*
+### ES
 
+Soy desarrollador mobile y web. Trabajo principalmente con **React Native**, donde tengo mas experiencia construyendo apps nativas para iOS y Android. Tambien me muevo con React, Next.js, Vite, Three.js y NestJS — me gusta tocar distintas partes del stack aunque mi fuerte esta en el lado mobile.
 
-## FullStack Javascript.
+Actualmente trabajo en **Minsait**, en el area de soluciones electorales, desarrollando apps con React Native. En paralelo mantengo librerias open source y un [blog](https://www.alejototaro.dev/) donde documento configuraciones, fixes y cosas que voy aprendiendo.
 
- -  🌎  **[Country Activities](https://github.com/Atotaro98/PI-Countries-FT13) It is a web page where all the countries of the world are displayed and activities can be added.
-In it, it had to consume data from the Api Rest Countries, include filtering, paging and creating activities for different countries. [Code](https://github.com/Atotaro98/PI-Countries-FT13)**
+### EN
 
-<p align="center"> Just using these technologies: -React-PostgreSQL-NodeJs-Express-Redux-CSS. <p>
- 
- 
+I'm a mobile and web developer. I mainly work with **React Native**, building native apps for iOS and Android. I also work with React, Next.js, Vite, Three.js and NestJS — I enjoy touching different parts of the stack, but mobile is where I have the most experience.
 
-## JavaScript - React - Redux.
+I currently work at **Minsait** in the electoral solutions division, developing apps with React Native. On the side, I maintain open source libraries and a [blog](https://www.alejototaro.dev/) where I document configs, fixes and things I learn along the way.
 
- - 🤢 [Not-Everything-is-rosy](https://not-everything-is-rosy.netlify.app/) *It is an application created with a COVID API, which allows you to search countrys and get information about COVID here. I use React + Redux. Css from Styles and Another API from flags. [Code](https://github.com/Atotaro98/Not-Everything-is-rosy)*
- 
+<br clear="right"/>
 
- - 🎬 [Movie Found](https://movie-found.netlify.app/) *It is an application created with a movie API, which allows you to search and add said movie to a list of favorites, use React + Redux for its functionality. [Code](https://github.com/Atotaro98/ApiPeliculas)*
+---
 
- - 🌞 [Web Api Clima](https://weather-page-api.netlify.app/) *Like Movie Found, within this page you can search for a city to find out its current weather. [Code](https://github.com/Atotaro98/ApiClima)*
+### Tech Stack
 
+<div align="center">
 
- 
- ## ONLY HTML - CSS.
-  - 🎮 [New-World-Countdown](https://newworld-countdown.netlify.app/) *At the request of my friends and colleagues I made a page where you can see the time left for one of the most anticipated MMOs of this year to come out. I'm talking about the New World. Use Html, Css and Javascript for the counter. It is something very simple but one that I enjoy doing. [Code](https://github.com/Atotaro98/New-World-Countdown)*
- 
-  - 💳 [PaymentMethod](https://github.com/Atotaro98/MethodPayment) *Exclusive work in Html and Css for a job interview.*
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,expo,tailwind,nextjs,vite,threejs,nodejs,nestjs,firebase,mongodb&theme=dark&perline=6)](https://skillicons.dev)
 
- - 🔨 [AIRhitect](https://github.com/Atotaro98/AIRhitect) *This WEB page was made for a job interview. Which specified that it be only exclusive in desktop view. It is just a page reporting data from a construction company. The page did created with pure Html and Css*
- 
-  - 📞 [Cooperativa Internet](https://github.com/Atotaro98/Cooperativa_Internet) *This work is done in pure and exclusive HTML CSS. I did it within my WEB Programming course at UTN. In this page, u can saw a simple HomePage with information about the place. And 3 section. One with contact us, another with products and services and for last one about us.*
- 
+</div>
 
-## Links - Social Medias
+| Area | Tecnologias |
+|------|------------|
+| **Mobile** | React Native, Expo, iOS, Android |
+| **Frontend** | React, Next.js, Vite, TypeScript, Tailwind, Three.js |
+| **Backend** | NestJS, Node.js |
+| **Databases & Services** | Firebase, MongoDB |
+| **GIS** | QGIS |
+| **Tools** | Ghostty, tmux, Git, VS Code |
 
-- [LinkedIn](https://www.linkedin.com/in/alejo-totaro/)
-- [Gmail](mailto:alejocs1998@gmail.com)
-- [Instagram](https://www.instagram.com/atotaro98/)
+---
 
- 
-*Finally I share my [Repositories](https://github.com/Atotaro98?tab=repositories) link so that you can review all the works and projects.*
+### Open Source
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Atotaro98/radix-native">radix-native</a></h3>
+      <p>Radix Themes API for React Native. Componentes como <code>Button</code>, <code>Text</code>, <code>Badge</code>, <code>Switch</code> y mas, con la misma API que Radix Themes pero para apps nativas.</p>
+      <p>
+        <a href="https://www.npmjs.com/package/radix-native"><img src="https://img.shields.io/npm/v/radix-native?style=flat-square&color=blue" alt="npm version"/></a>
+        <a href="https://www.npmjs.com/package/radix-native"><img src="https://img.shields.io/npm/dm/radix-native?style=flat-square&color=green" alt="npm downloads"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Atotaro98/react-native-font-alias">react-native-font-alias</a></h3>
+      <p>Registra alias para que <code>fontFamily</code> funcione con nombres de archivo en iOS, sin tener que buscar PostScript names. Soporta React Native y Expo.</p>
+      <p>
+        <a href="https://www.npmjs.com/package/react-native-font-alias"><img src="https://img.shields.io/npm/v/react-native-font-alias?style=flat-square&color=blue" alt="npm version"/></a>
+        <a href="https://www.npmjs.com/package/react-native-font-alias"><img src="https://img.shields.io/npm/dm/react-native-font-alias?style=flat-square&color=green" alt="npm downloads"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
+---
 
-> Thanks for stopping in my GITHUB. Have a nice day 😁.
+### Blog
+
+Escribo sobre desarrollo mobile, configuraciones y herramientas en [alejototaro.dev](https://www.alejototaro.dev/):
+
+- [**Por que estoy creando Radix Native**](https://www.alejototaro.dev/posts/radix-native) — La historia detras de la libreria y el problema que resuelve.
+- [**react-native-font-alias: fuentes custom en iOS sin sufrir**](https://www.alejototaro.dev/posts/react-native-font-alias) — Como usar nombres de archivo como fontFamily en iOS.
+- [**Ghostty terminal: setup completo**](https://www.alejototaro.dev/guides/ghostty-setup) — Ghostty + Oh My Zsh + Starship + tmux desde cero.
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Atotaro98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atotaro98&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Atotaro98&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atotaro98&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Atotaro98&color=6366F1&style=flat-square)
+
+</div>
